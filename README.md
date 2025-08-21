@@ -63,11 +63,22 @@
 
 ## 📚 참고자료
 조풍진, "Instance-based Entropy Classifier for Imbalanced Classification Problem", 서울대학교 박사학위논문
+
 Chun-Fu Lin, Sheng-De Wang"Fuzzy Support Vector Machines"
-https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing?utm_source=chatgpt.com https://arxiv.org/abs/1902.11097?utm_source=chatgpt.com https://pmc.ncbi.nlm.nih.gov/articles/PMC9374341/?utm_source=chatgpt.com https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/?utm_source=chatgpt.com
-https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1XI2040 https://kosis.kr/statHtml/statHtml.do?sso=ok&returnurl=https%3A%2F%2Fkosis.kr%3A443%2FstatHtml%2FstatHtml.do%3FtblId%3DDT_1BPA002%26orgId%3D101%26checkFlag%3DN%26
+
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing?utm_source=chatgpt.com https://arxiv.org/abs/1902.11097?utm_source=chatgpt.com 
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9374341/?utm_source=chatgpt.com https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/?utm_source=chatgpt.com
+
+https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1XI2040
+
+https://kosis.kr/statHtml/statHtml.do?sso=ok&returnurl=https%3A%2F%2Fkosis.kr%3A443%2FstatHtml%2FstatHtml.do%3FtblId%3DDT_1BPA002%26orgId%3D101%26checkFlag%3DN%26
+
 https://www.ibm.com/kr-ko/think/topics/support-vector-machine
+
 https://news.samsungdisplay.com/24757
+
 https://wikidocs.net/257250
+
 https://www.youtube.com/watch?v=__0nZuG4sTw&t=658s
 https://aiflower.tistory.com/5
